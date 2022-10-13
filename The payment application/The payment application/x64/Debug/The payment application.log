@@ -1,0 +1,3 @@
+﻿  terminal.c
+C:\Users\ALEXSTORE\Desktop\PaymentApplication\The payment application\The payment application\terminal\terminal.c(11,5): warning C4013: 'gets' undefined; assuming extern returning int
+  The payment application.vcxproj -> C:\Users\ALEXSTORE\Desktop\PaymentApplication\The payment application\x64\Debug\The payment application.exe
