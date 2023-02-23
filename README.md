@@ -18,9 +18,13 @@ You are required to implement the SALE transaction only by simulating the card, 
 
 Development environment preparation
 Implement the card module
+
 Implement the terminal module
+
 Implement the server module
+
 Implement the application
+
 Testing the application
 
 The project can be distributed over 6 main tasks:
